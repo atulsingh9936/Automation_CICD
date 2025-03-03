@@ -16,6 +16,7 @@ import java.util.List;
 
 public class Standalone_Test {
     public static void main(String[] args) {
+// new comment are added
         String ProductName = "ZARA COAT 3";
         WebDriverManager.chromedriver().setup();
         WebDriver driver = new ChromeDriver();
