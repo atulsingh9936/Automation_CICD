@@ -2,5 +2,11 @@
 €	Web:S5254"@Add "lang" and/or "xml:lang" attributes to this "<html>" element(œ÷ÃûÿÿÿÿJ$083f80c2-10c2-4f64-ade2-25b7353a06b2
 ,Web:MouseEventWithoutKeyboardEquivalentCheck-"@Add a 'onKeyPress|onKeyDown|onKeyUp' attribute to this <li> tag.(êí‡’8¼šù’Õ2
 n	Web:S6847-"RNon-interactive elements should not be assigned mouse or keyboard event listeners.(êí‡’8¼šù’Õ2
-,Web:MouseEventWithoutKeyboardEquivalentCheck2"@Add a 'onKeyPress|onKeyDown|onKeyUp' attribute to this <li> tag.(¤áî8¼šù’Õ2
-n	Web:S68472"RNon-interactive elements should not be assigned mouse or keyboard event listeners.(¤áî8¼šù’Õ2
+,Web:MouseEventWithoutKeyboardEquivalentCheck2"@Add a 'onKeyPress|onKeyDown|onKeyUp' attribute to this <li> tag.(¤¥Àô8¼šù’Õ2
+n	Web:S68472"RNon-interactive elements should not be assigned mouse or keyboard event listeners.(¤¥Àô8¼šù’Õ2
+,Web:MouseEventWithoutKeyboardEquivalentCheck7"@Add a 'onKeyPress|onKeyDown|onKeyUp' attribute to this <li> tag.(¤áî8ÛıÍ«Õ2
+n	Web:S68477"RNon-interactive elements should not be assigned mouse or keyboard event listeners.(¤áî8ÛıÍ«Õ2
+SWeb:ImgWithoutAltChecko"%Add an "alt" attribute to this image.(ˆ’ëûÿÿÿÿ8ÛıÍ«Õ2
+TWeb:ImgWithoutAltCheckÚ"%Add an "alt" attribute to this image.(ˆ’ëûÿÿÿÿ8ÜıÍ«Õ2
+Fjavascript:S1534¨"Duplicate name 'submitorder'.(‘¬Øóüÿÿÿÿ8›‡Ï«Õ2
+8	css:S4667"Unexpected empty source(ôí§øÿÿÿÿ8÷ˆÏ«Õ2
